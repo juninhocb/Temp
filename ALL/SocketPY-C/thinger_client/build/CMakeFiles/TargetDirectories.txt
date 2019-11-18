@@ -1,0 +1,3 @@
+/home/pi/SocketPY-C/thinger_client/build/CMakeFiles/rebuild_cache.dir
+/home/pi/SocketPY-C/thinger_client/build/CMakeFiles/edit_cache.dir
+/home/pi/SocketPY-C/thinger_client/build/CMakeFiles/thinger.dir
